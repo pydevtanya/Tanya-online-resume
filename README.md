@@ -9,7 +9,13 @@ I am looking for a role where I can explore new technogies, learn and grow 😊
 
 ### 🌱 I’m currently trying to explore every technology
 
-## 💼 My Projects
+## 💼 My experience
+
+### - Akriti Samajik Sansthan
+
+I developed complete student management solution with admission dashboard, OTP verification, fee submission and attendance marking
+
+## 🎢 My Projects
 
 ### - 👨🏼‍🎓 Student Management System
 I developed complete student management solution using HTML, CSS, JavaScript, jQuery, PHP and MySql and deployed it on localhost of Akriti Samjik Sansthan
