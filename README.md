@@ -14,7 +14,7 @@ I am looking for a role where I can explore new technogies, learn and grow 😊
 ### - 👨🏼‍🎓 Student Management System
 I developed complete student management solution using HTML, CSS, JavaScript, jQuery, PHP and MySql and deployed it on localhost of Akriti Samjik Sansthan
 
-### - 🧾 Online Exam Portal
+### - 🧾 <a href="https://github.com/pydevtanya/Online-Exam-Portal">Online Exam Portal</a>
 I worked on a portal for online exams using HTML, CSS, Bootstrap, JavaScript, jQuery, PHP and MySql
 
  
