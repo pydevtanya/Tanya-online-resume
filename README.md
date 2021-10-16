@@ -1,5 +1,5 @@
 # Hi there, I'm Tanya<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-i am looking for a  role where i can grow and continue to learn from other experienced
+I am looking for a role where I can explore new technogies, learn and grow 😊
 
 
 ## 👩‍💻 My Coding Skills :
@@ -11,10 +11,10 @@ i am looking for a  role where i can grow and continue to learn from other exper
 
 ## 💼 My Projects
 
-### 👨🏼‍🎓 Student Management System
+### - 👨🏼‍🎓 Student Management System
 I developed complete student management solution using HTML, CSS, JavaScript, jQuery, PHP and MySql and deployed it on localhost of Akriti Samjik Sansthan
 
-### 🧾 Online Exam Portal
+### - 🧾 Online Exam Portal
 I worked on a portal for online exams using HTML, CSS, Bootstrap, JavaScript, jQuery, PHP and MySql
 
  
