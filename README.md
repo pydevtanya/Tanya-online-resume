@@ -7,7 +7,7 @@ I am looking for a role where I can explore new technogies, learn and grow 😊
 
 **Development Environment :** VS Code 
 
-### 🌱 I’m currently exploring every technology
+### 🌱 I’m currently trying to explore every technology
 
 ## 💼 My Projects
 
