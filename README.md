@@ -39,6 +39,6 @@ I worked on a portal for online exams using HTML, CSS, Bootstrap, JavaScript, jQ
 ## 📫 How to reach me : 
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:tanyakumari332@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/https://https://www.linkedin.com/in/tanya-kumari-b60033223/) 
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/tanya-kumari-b60033223/) 
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/pydevtanya/) 
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/tanya1725002/)
