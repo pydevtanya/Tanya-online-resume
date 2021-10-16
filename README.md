@@ -5,17 +5,17 @@ I am looking for a role where I can explore new technogies, learn and grow 😊
 ## 👩‍💻 My Coding Skills :
 **Web Frontend Languages (Web) :**HTML, CSS, JavaScript
 
-**Backend Languages (Web) :**PHP
+**Backend Languages (Web) :** PHP
 
-**Runtime Environment:**NodeJS
+**Runtime Environment:** NodeJS
 
 **Libraries :** jQuery, ExpressJS
 
-**Programming Languages :**C++, Python
+**Programming Languages :** C++, Python
 
-**Database :**MySQL, MongoDB
+**Database :** MySQL, MongoDB
 
-**Other skills :**Computer Hardware, Computer Networking 
+**Other skills :** Computer Hardware, Computer Networking 
 
 **Development Environment :** VS Code 
 
