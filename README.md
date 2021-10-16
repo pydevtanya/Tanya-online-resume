@@ -3,7 +3,7 @@ I am looking for a role where I can explore new technogies, learn and grow 😊
 
 
 ## 👩‍💻 My Skills :
-**Web Frontend Languages (Web) :** HTML, CSS, JavaScript
+**Frontend Languages (Web) :** HTML, CSS, JavaScript
 
 **Backend Languages (Web) :** PHP
 
