@@ -7,34 +7,30 @@ I am looking for a role where I can explore new technogies, learn and grow 😊
 
 **Backend Languages (Web) :** PHP
 
-**Runtime Environment:** NodeJS
+**Libraries :** jQuery
 
-**Libraries :** jQuery, ExpressJS
+**Programming Languages :** C++
 
-**Programming Languages :** C++, Python
-
-**Database :** MySQL, MongoDB
+**Database :** MySQL
 
 **Other skills :** Computer Hardware, Computer Networking 
 
 **Development Environment :** VS Code 
 
-### 🌱 I’m currently trying to explore different technology
+### 🌱 I’m currently trying to explore different technologies
 
 ## 💼 My experience
 
 ### - Akriti Samajik Sansthan
 
-I developed complete student management solution with admission dashboard, OTP verification, fee submission and attendance marking
+I developed complete student management solution which reduced the paperwork of the institute upto **90%** and saved **38%** of the expenditure of the institute.
+It manages data of about **300 students** on a daily basis.
 
 ## 🎢 My Projects
 
-### - 👨🏼‍🎓 Student Management System
-I developed complete student management solution using HTML, CSS, JavaScript, jQuery, PHP and MySql and deployed it on localhost of Akriti Samjik Sansthan
-
 ### - 🧾 <a href="https://github.com/pydevtanya/Online-Exam-Portal">Online Exam Portal</a>
-I worked on a portal for online exams using HTML, CSS, Bootstrap, JavaScript, jQuery, PHP and MySql
-
+I made a web application that performs **CRUD operations**.
+This application can be used to conduct online exams.
  
 ## 📫 How to reach me : 
 
