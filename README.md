@@ -23,6 +23,8 @@ I am looking for a role where I can explore and learn new technologies. 😊
 
 ### - Akriti Samajik Sansthan
 
+**Web Developer** (Intern)
+
 I developed complete student management solution which reduced the paperwork of the institute upto **90%** and saved **38%** of the expenditure of the institute.
 It manages data of about **300 students** on a daily basis.
 
