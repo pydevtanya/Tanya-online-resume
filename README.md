@@ -1,5 +1,5 @@
 # Hi there, I'm <a href="https://pydevtanya.github.io/Tanya-Kumari/">Tanya</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am looking for a role where I can explore new technogies, learn and grow 😊
+I am looking for a role where I can explore and learn new technologies. 😊
 
 
 ## 👩‍💻 My Skills :
